@@ -33,7 +33,7 @@ const App = () => {
       </div>
       */}
     
-      {/* 
+      
       <div className="Web-Page bg-gray-500 pb-1">
         <div className="page-container 
                         bg-gray-400 m-10 
@@ -47,7 +47,7 @@ const App = () => {
           <div className="Footer col-span-full p-5 bg-gray-100 rounded"> Footer </div>
         </div>
       </div>
-      */}
+      
       
       <div className="Challenge flex flex-wrap h-screen  ">
         <div className="bg-green-100 w-1/3 h-1/3 flex justify-center items-center">1</div>
