@@ -27,7 +27,7 @@ const App = () => {
                   '
                   
                   
-                  > NIGER </h3>
+                  >  NIGER  </h3>
           </div>
         </div>
       </div>
